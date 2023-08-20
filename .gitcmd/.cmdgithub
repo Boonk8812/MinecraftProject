@@ -1,4 +1,5 @@
-// Command terminal Infdev 2309191212
+// Command terminal Infdev 2309196
 // $ gitcmd code activate true Chat.txt online=01
 // $ gitcmd scan code.memory=EEDATA_MEMORY ($A000 + $8FFF)
 // $ github code,compile gcc code.eedata_@$009263137536332182FFBC881E5A5DC
+// $ data repository __date+time="09/19/2023"
